@@ -10,3 +10,10 @@
 
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/a8cfce61-a1df-43f5-bce8-3ffbb30c3d5a" />
 
+프로그램 실행 화면
+
+<img width="2880" height="1704" alt="image" src="https://github.com/user-attachments/assets/a54a4196-b073-4792-8487-494cfa18ea57" />
+
+데이터 저장
+
+<img width="2880" height="1704" alt="image" src="https://github.com/user-attachments/assets/a59a12a1-111a-4f1a-9c4a-a473dfa5677c" />
