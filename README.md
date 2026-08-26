@@ -17,3 +17,11 @@
 데이터 저장
 
 <img width="2880" height="1704" alt="image" src="https://github.com/user-attachments/assets/a59a12a1-111a-4f1a-9c4a-a473dfa5677c" />
+
+GitHub 저장소 메인 화면 
+
+
+
+커밋 히스토리
+
+<img width="2534" height="1454" alt="image" src="https://github.com/user-attachments/assets/b66d34e6-2a50-4bfc-91d7-e04e6a20f387" />
